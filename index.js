@@ -13,7 +13,17 @@ function initApp() {
 
 function addMember() {
     inquirer.prompt([{
-        message: "Enter team member's name",
+        type: "list",
+        message: "What would you like to do?",
+        choices: [
+"View All Employees",
+"Add Employee",
+"Update Employee Role",
+"View All Roles",
+"Add role",
+"View All Departments",
+"Add Department",
+        ],
         name: "name"
     },
     {

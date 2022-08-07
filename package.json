@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/surfinsofia/ProfileGenerator#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "inquirer": "^6.3.1",
     "mysql": "^2.18.1",

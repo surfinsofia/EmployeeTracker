@@ -2,7 +2,7 @@
 const db = require("./db/connection");
 const express = require("express");
 const startInquirer = require("./lib/departments");
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3003;
 const app = express();
 
 // express middleware

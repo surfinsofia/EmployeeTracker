@@ -3,7 +3,7 @@
   Employee Tracker
   
   ## Description
-  Create a database to organize your employees
+  Create a database to organize your employees using Node.js, Inquirer, and MySQL.
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -36,4 +36,6 @@
   Reach me with questions by email:
   asofiae96@gmail.com
   
+  Video Demo:
+   https://www.youtube.com/watch?v=TebqZ6AO1HY
   
